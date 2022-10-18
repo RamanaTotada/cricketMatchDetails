@@ -1,0 +1,1 @@
+get http://localhost:3006/matches/1/players
